@@ -1,0 +1,35 @@
+[
+  {
+    "user_id": 1,
+    "username": "admin",
+    "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "role": "admin",
+    "full_name": "System Administrator",
+    "email": "admin@canteen.com",
+    "is_active": true,
+    "date_created": "2024-11-08 18:30:00",
+    "last_login": "2025-11-26 10:08:05"
+  },
+  {
+    "user_id": 2,
+    "username": "Herr",
+    "password": "eb08008ccd531c391ba2024fd10baf2a6ced27027cf573bf14cc52a915883380",
+    "role": "staff",
+    "full_name": "Herr Bauer",
+    "email": "herrbauer9@gmail.com",
+    "is_active": true,
+    "date_created": "2025-11-24 18:02:55",
+    "last_login": "2025-11-24 19:04:39"
+  },
+  {
+    "user_id": 3,
+    "username": "Shen",
+    "password": "fd96a8e09b6e406d2f0b65d8f112b8a84910e92099015a78d89ed783999cdfab",
+    "role": "staff",
+    "full_name": "Liang Shen",
+    "email": "ShenL@gmail.com",
+    "is_active": true,
+    "date_created": "2025-11-24 22:58:05",
+    "last_login": null
+  }
+]
